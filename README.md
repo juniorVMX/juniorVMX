@@ -5,8 +5,7 @@
 - 📜 Certificado **AWS Cloud Quest: Cloud Practitioner**
 - 🛠️ **Stacks:** Linux (Ubuntu/Debian/CentOS), Terraform, Ansible, Docker, Zabbix, Grafana, Bash Scripting, Redes (TCP/IP, VPN).
 - 📌 **Projetos Principais:**
-  - `infra-automation-lab`: IaC com Terraform e Ansible para subir ambiente LAMP/Nginx monitorado.
-  - `zabbix-grafana-docker`: Stack de observabilidade pronta em Docker Compose.
+
 <!--
 **juniorVMX/juniorVMX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
