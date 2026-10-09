@@ -7,7 +7,11 @@ Graduando em Engenharia da Computação com experiência em administração de s
 
 ### 🚀 Sobre Mim
 - 🎓 **Formação:** Engenharia da Computação — Universidade CEUMA (Conclusão em 2026)
-- 📜 **Certificação:** AWS Cloud Quest: Cloud Practitioner
+- 📜 **Certificação:** 
+• Segurança Cibernética: Implementação dos Controles 1 a 12 do CIS Controls v8.
+• Proteção de Dados Pessoais no Setor Público (LGPD e Governança de Dados).
+• Formação Linux Fundamentals (Administração de Sistemas, Permissões e Shell Scripting).
+• AWS Cloud Quest: Cloud Practitioner — Amazon Web Services (AWS).
 - 💼 **Experiência:** Passagens por órgãos públicos estaduais e federais (ATI-MA e CONAB) atuando em infraestrutura e redes.
 - 🎯 **Foco Atual:** Vagas remotas em DevOps Junior, SysAdmin Linux, Infraestrutura Cloud e Suporte N2/N3.
 
