@@ -1,12 +1,37 @@
 # Olá, sou o Francisco Adriano 👋
-**DevOps & Cloud Engineer Junior | Linux SysAdmin**
+### DevOps & Cloud Engineer Junior | Linux SysAdmin
 
-- 🎓 Graduando em Engenharia da Computação (Universidade CEUMA)
-- 📜 Certificado **AWS Cloud Quest: Cloud Practitioner**
-- 🛠️ **Stacks:** Linux (Ubuntu/Debian/CentOS), Terraform, Ansible, Docker, Zabbix, Grafana, Bash Scripting, Redes (TCP/IP, VPN).
-- 📌 **Projetos Principais:**
-  - `infra-automation-lab`: IaC com Terraform e Ansible para subir ambiente LAMP/Nginx monitorado.
-  - `zabbix-grafana-docker`: Stack de observabilidade pronta em Docker Compose.
+Graduando em Engenharia da Computação com experiência em administração de sistemas Linux, automação de infraestrutura (IaC), monitoramento continuado e suporte corporativo N2.
+
+---
+
+### 🚀 Sobre Mim
+- 🎓 **Formação:** Engenharia da Computação — Universidade CEUMA (Conclusão em 2026)
+- 📜 **Certificação:** AWS Cloud Quest: Cloud Practitioner
+- 💼 **Experiência:** Passagens por órgãos públicos estaduais e federais (ATI-MA e CONAB) atuando em infraestrutura e redes.
+- 🎯 **Foco Atual:** Vagas remotas em DevOps Junior, SysAdmin Linux, Infraestrutura Cloud e Suporte N2/N3.
+
+---
+
+### 🛠️ Habilidades Técnicas & Stacks
+- **Sistemas Operacionais:** Linux (Ubuntu, Debian, CentOS) & Windows Server
+- **Infraestrutura como Código (IaC):** Terraform, Ansible, Bash Scripting
+- **Containers & Virtualização:** Docker, Docker Compose, VMware, Proxmox
+- **Observabilidade & Monitoramento:** Zabbix, Grafana (Dashboards & Alertas)
+- **Redes & Segurança:** TCP/IP, Sub-redes, VPN, SSH, Firewalls, Troubleshooting L2/L3
+
+---
+
+### 📌 Projetos em Destaque
+- 🛠️ **[linux-iac-apache-provisioning](https://github.com/juniorVMX/linux-projeto2-iac):** Provisionamento e automação de servidor web Apache via Shell Script em Linux.
+- 🔐 **[linux-user-governance-automation](https://github.com/juniorVMX/criado-user-linux-dio):** Automação de governança de usuários, grupos e permissões de segurança (Hardening) em Bash.
+- 🤖 **[Assistente-Universit-rio-Inteligente](https://github.com/juniorVMX/Assistente-Universit-rio-Inteligente):** Aplicação interativa em Python e Streamlit integrada a modelos de IA para apoio acadêmico.
+
+---
+
+### 📫 Como me encontrar
+- **LinkedIn:** [linkedin.com/in/francisco-adriano-júnior](https://www.linkedin.com/in/francisco-adriano-j%C3%Búnior)
+- **E-mail:** franciscoadrianojunior@gmail.com
 
 <!--
 **juniorVMX/juniorVMX** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
